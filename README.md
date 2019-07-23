@@ -1,8 +1,7 @@
 # animal-trading-cards-master
 To re-create a webpage from a design prototype.
 Use what you've learned about CSS to convert a design prototype into a functional webpage!
-##Project Instructions
-Review the Animal Trading Cards project rubric.
+## Project Instructions
 
 1) Download and unzip animal-trading-cards-master.zip. 
 Inside, you'll find card.html, styles.css, placeholder.png, and the design-prototype.png.
