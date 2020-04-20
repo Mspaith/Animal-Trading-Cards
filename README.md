@@ -1,4 +1,4 @@
-# animal-trading-cards-master
+# Animal-Trading-Cards
 To re-create a webpage from a design prototype.
 Use what you've learned about CSS to convert a design prototype into a functional webpage!
 ## Project Instructions
